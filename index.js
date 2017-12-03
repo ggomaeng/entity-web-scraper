@@ -78,6 +78,9 @@ function scoreAggregation(arr) {
 
 function calculate(keyword, index, depth) {
   scrape(keyword).then(value => {
+    while (fs.existsSync(`${keyword}-output-${index}.json`)) {
+      index++;
+    }
     fs.writeFile(
       `${keyword}-output-${index}.json`,
       JSON.stringify(value),
