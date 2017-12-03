@@ -1,0 +1,157 @@
+{
+  "OTHER": [
+    { "name": "AI", "salience": 0.049998845905065536, "type": "OTHER" },
+    { "name": "Failure", "salience": 0.006746949162334204, "type": "OTHER" },
+    {
+      "name": "Cognitive Horizons Network",
+      "salience": 0.0060547045432031155,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/Cognition"
+    },
+    {
+      "name": "Deep-Neural Networks",
+      "salience": 0.0030448823235929012,
+      "type": "OTHER"
+    },
+    { "name": "Websites", "salience": 0.00218207691796124, "type": "OTHER" },
+    { "name": "Issues", "salience": 0.001809938927181065, "type": "OTHER" },
+    {
+      "name": "Facebook",
+      "salience": 0.0014726687222719193,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/Facebook"
+    },
+    {
+      "name": "Chief Data Officer position",
+      "salience": 0.0007434446015395224,
+      "type": "OTHER"
+    },
+    {
+      "name": "Internet of Things",
+      "salience": 0.005786464083939791,
+      "type": "OTHER"
+    },
+    { "name": "Technology", "salience": 0.004731460008770227, "type": "OTHER" },
+    {
+      "name": "IT practices",
+      "salience": 0.004033990669995546,
+      "type": "OTHER"
+    }
+  ],
+  "WORK_OF_ART": [
+    {
+      "name": "Tech Trends Report",
+      "salience": 0.012268377467989922,
+      "type": "WORK_OF_ART"
+    }
+  ],
+  "ORGANIZATION": [
+    {
+      "name": "Companies",
+      "salience": 0.005839239340275526,
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "University of Montreal",
+      "salience": 0.0015899084974080324,
+      "type": "ORGANIZATION",
+      "wiki": "https://en.wikipedia.org/wiki/Universit%C3%A9_de_Montr%C3%A9al"
+    },
+    {
+      "name": "University of Michigan",
+      "salience": 0.0015899084974080324,
+      "type": "ORGANIZATION",
+      "wiki": "https://en.wikipedia.org/wiki/University_of_Michigan"
+    },
+    {
+      "name": "University of Illinois at Urbana-Champaign",
+      "salience": 0.0015899084974080324,
+      "type": "ORGANIZATION",
+      "wiki":
+        "https://en.wikipedia.org/wiki/University_of_Illinois_at_Urbana%E2%80%93Champaign"
+    },
+    {
+      "name": "KLM",
+      "salience": 0.001580118085257709,
+      "type": "ORGANIZATION",
+      "wiki": "https://en.wikipedia.org/wiki/KLM"
+    },
+    {
+      "name": "Massachusetts Institute of Technology",
+      "salience": 0.0013434527209028602,
+      "type": "ORGANIZATION",
+      "wiki":
+        "https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology"
+    },
+    {
+      "name": "Rensselaer Polytechnic Institute",
+      "salience": 0.0013434527209028602,
+      "type": "ORGANIZATION",
+      "wiki": "https://en.wikipedia.org/wiki/Rensselaer_Polytechnic_Institute"
+    },
+    {
+      "name": "University of Maryland, Baltimore County",
+      "salience": 0.0011753184953704476,
+      "type": "ORGANIZATION",
+      "wiki":
+        "https://en.wikipedia.org/wiki/University_of_Maryland,_Baltimore_County"
+    },
+    {
+      "name": "IBM",
+      "salience": 0.0010302845621481538,
+      "type": "ORGANIZATION",
+      "wiki": "https://en.wikipedia.org/wiki/IBM"
+    },
+    {
+      "name": "CDOs",
+      "salience": 0.0003845571482088417,
+      "type": "ORGANIZATION"
+    },
+    { "name": "IoT", "salience": 0.004029120318591595, "type": "ORGANIZATION" },
+    {
+      "name": "Google",
+      "salience": 0.002516670385375619,
+      "type": "ORGANIZATION",
+      "wiki": "https://en.wikipedia.org/wiki/Google"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Programmers",
+      "salience": 0.003256589872762561,
+      "type": "PERSON"
+    },
+    {
+      "name": "IBM Watson",
+      "salience": 0.0018144436180591583,
+      "type": "PERSON",
+      "wiki": "https://en.wikipedia.org/wiki/Watson_(computer)"
+    },
+    { "name": "Big", "salience": 0.0014764212537556887, "type": "PERSON" },
+    {
+      "name": "Messenger",
+      "salience": 0.0014726687222719193,
+      "type": "PERSON"
+    },
+    {
+      "name": "Max Kelsen",
+      "salience": 0.0013274045195430517,
+      "type": "PERSON"
+    },
+    {
+      "name": "Sergey Brin",
+      "salience": 0.0037006426136940718,
+      "type": "PERSON",
+      "wiki": "https://en.wikipedia.org/wiki/Sergey_Brin"
+    }
+  ],
+  "LOCATION": [
+    {
+      "name": "Dutch",
+      "salience": 0.0012883710442110896,
+      "type": "LOCATION",
+      "wiki": "https://en.wikipedia.org/wiki/Netherlands"
+    },
+    { "name": "LeWeb", "salience": 0.0035242317244410515, "type": "LOCATION" }
+  ]
+}
