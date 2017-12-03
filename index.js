@@ -1,7 +1,7 @@
 // Imports the Google Cloud client library
 const language = require("@google-cloud/language");
 
-process.env.GOOGLE_APPLICATION_CREDENTIALS = "./yhacks2017-7710fb3505fc.json"
+process.env.GOOGLE_APPLICATION_CREDENTIALS = "./yhacks2017-7710fb3505fc.json";
 
 // Instantiates a client
 const client = new language.LanguageServiceClient();
@@ -41,8 +41,9 @@ async function analyzeEntitiesOfText(array_text) {
             // console.log(` - Wikipedia URL: ${entity.metadata.wikipedia_url}$`);
           }
         }
+
+        console.log(JSON.stringify(entity));
       }
-      // console.log(result);
     }
   } catch (err) {
     console.log(err);
@@ -148,4 +149,3 @@ analyzeEntitiesOfText(importedOutput).then(result => {
 module.exports = {
   analyzeEntitiesOfText
 };
-

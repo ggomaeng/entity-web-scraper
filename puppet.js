@@ -48,6 +48,7 @@ async function scrape(keyword) {
           .reduce((acc, curr) => acc + curr.textContent, "");
       });
       texts.push(result);
+      console.log(result);
       console.log("finished page", i);
     } catch (err) {
       console.log(err);

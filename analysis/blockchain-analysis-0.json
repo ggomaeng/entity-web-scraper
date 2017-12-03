@@ -1,1 +1,386 @@
-{"OTHER":[{"name":"Bitcoin blockchain","salience":0.30687645077705383,"type":"OTHER","wiki":"https://en.wikipedia.org/wiki/Bitcoin"},{"name":"Blockchain guide.Information","salience":0.026611803099513054,"type":"OTHER","wiki":"https://en.wikipedia.org/wiki/Blockchain"},{"name":"Graphical User Interface","salience":0.010372315533459187,"type":"OTHER"},{"name":"Anything","salience":0.0032313955016434193,"type":"OTHER"},{"name":"Hyperledger","salience":0.0016521998913958669,"type":"OTHER","wiki":"https://en.wikipedia.org/wiki/Hyperledger"},{"name":"Bitcoins","salience":0.00117671606130898,"type":"OTHER"},{"name":"Transparency","salience":0.0010582044487819076,"type":"OTHER"},{"name":"Stock market trades","salience":0.0008655444835312665,"type":"OTHER"},{"name":"Bitcoin","salience":0.0007938979542814195,"type":"OTHER"},{"name":"Tradle","salience":0.0007710519712418318,"type":"OTHER"},{"name":"Nodes","salience":0.0007219695253297687,"type":"OTHER"},{"name":"Crowdfunding initiatives","salience":0.0006919560837559402,"type":"OTHER"},{"name":"IoT","salience":0.00028964021419000875,"type":"OTHER","wiki":"https://en.wikipedia.org/wiki/Internet_of_things"},{"name":"Decentralization","salience":0.0005542745930142701,"type":"OTHER"},{"name":"Provenance","salience":0.0005041655385866761,"type":"OTHER","wiki":"https://en.wikipedia.org/wiki/Provenance"},{"name":"SSL standard","salience":0.0005006572464480996,"type":"OTHER"},{"name":"Indonesia.Inter Planetary File System","salience":0.0004842288908548653,"type":"OTHER"},{"name":"Venture investment","salience":0.00045933088404126465,"type":"OTHER"},{"name":"Mycelia","salience":0.00044306961353868246,"type":"OTHER"},{"name":"AML","salience":0.00019913944522446985,"type":"OTHER","wiki":"https://en.wikipedia.org/wiki/Money_laundering"},{"name":"Prediction markets","salience":0.0003823554434347898,"type":"OTHER"},{"name":"E-Commerce","salience":0.00036203820491209626,"type":"OTHER"},{"name":"Smart Contracts","salience":0.0003486537607386708,"type":"OTHER"},{"name":"SSL certificate","salience":0.00034851752570830286,"type":"OTHER"},{"name":"Ethereum blockchain","salience":0.000306731672026217,"type":"OTHER","wiki":"https://en.wikipedia.org/wiki/Ethereum"},{"name":"Netki","salience":0.00014440152671301072,"type":"OTHER"},{"name":"Examples","salience":0.00013911328774768387,"type":"OTHER"},{"name":"IPFS","salience":0.00025898401509039104,"type":"OTHER","wiki":"https://en.wikipedia.org/wiki/InterPlanetary_File_System"},{"name":"Gofundme","salience":0.00022688637545797974,"type":"OTHER","wiki":"https://en.wikipedia.org/wiki/GoFundMe"},{"name":"Kickstarter","salience":0.00022688637545797974,"type":"OTHER","wiki":"https://en.wikipedia.org/wiki/Kickstarter"},{"name":"Stock Market.","salience":0.0002206758363172412,"type":"OTHER","wiki":"https://en.wikipedia.org/wiki/Stock_market"},{"name":"Trust in Motion","salience":0.0001870415871962905,"type":"OTHER"},{"name":"Centralpoint","salience":0.00013340747682377696,"type":"OTHER"},{"name":"Instagram for KYC","salience":0.0001147114162449725,"type":"OTHER"},{"name":"IFTTT","salience":0.00010613808990456164,"type":"OTHER","wiki":"https://en.wikipedia.org/wiki/IFTTT"},{"name":"CRM.","salience":0.00010612691403366625,"type":"OTHER","wiki":"https://en.wikipedia.org/wiki/Customer_relationship_management"},{"name":"Startup Polycoin","salience":0.00008060249092523009,"type":"OTHER","wiki":"https://en.wikipedia.org/wiki/Startup_company"},{"name":"Facebook","salience":0.00006744586426066235,"type":"OTHER","wiki":"https://en.wikipedia.org/wiki/Facebook"}],"ORGANIZATION":[{"name":"KYC","salience":0.007814536802470684,"type":"ORGANIZATION","wiki":"https://en.wikipedia.org/wiki/Know_your_customer"},{"name":"Chain","salience":0.0010269900085404515,"type":"ORGANIZATION"},{"name":"Linq","salience":0.0005074842655987712,"type":"ORGANIZATION","wiki":"https://en.wikipedia.org/wiki/Language_Integrated_Query"},{"name":"Uber","salience":0.0002926842134911567,"type":"ORGANIZATION","wiki":"https://en.wikipedia.org/wiki/Uber_(company)"},{"name":"AirBnB","salience":0.00022700391127727926,"type":"ORGANIZATION","wiki":"https://en.wikipedia.org/wiki/Airbnb"},{"name":"IBM","salience":0.00020660999871324748,"type":"ORGANIZATION","wiki":"https://en.wikipedia.org/wiki/IBM"},{"name":"Samsung","salience":0.00020660999871324748,"type":"ORGANIZATION"},{"name":"AT&T","salience":0.00020660999871324748,"type":"ORGANIZATION","wiki":"https://en.wikipedia.org/wiki/AT%26T"},{"name":"Hyperledger Fabric","salience":0.00015342958795372397,"type":"ORGANIZATION"},{"name":"Hongkong.Block Chain","salience":0.00015228726260829717,"type":"ORGANIZATION"},{"name":"Nasdaq","salience":0.00015174537838902324,"type":"ORGANIZATION","wiki":"https://en.wikipedia.org/wiki/NASDAQ"},{"name":"Bitfury Group","salience":0.00009681767551228404,"type":"ORGANIZATION","wiki":"https://ru.wikipedia.org/wiki/Bitfury"},{"name":"Republic of Georgia","salience":0.00007702724542468786,"type":"ORGANIZATION","wiki":"https://en.wikipedia.org/wiki/Georgia_(country)"},{"name":"MIT","salience":0.00006742745608789846,"type":"ORGANIZATION","wiki":"https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology"},{"name":"Deutsche Börse","salience":0.00006734927592333406,"type":"ORGANIZATION","wiki":"https://en.wikipedia.org/wiki/Deutsche_B%C3%B6rse"},{"name":"Japan Exchange Group","salience":0.00006734927592333406,"type":"ORGANIZATION","wiki":"https://en.wikipedia.org/wiki/Japan_Exchange_Group"},{"name":"Australian Securities Exchange","salience":0.000039526308682980016,"type":"ORGANIZATION","wiki":"https://en.wikipedia.org/wiki/Australian_Securities_Exchange"}],"PERSON":[{"name":"Blockchains","salience":0.0016916670138016343,"type":"PERSON"},{"name":"Consumers","salience":0.001386022660881281,"type":"PERSON"},{"name":"Several","salience":0.00123059400357306,"type":"PERSON"},{"name":"Imogen Heap","salience":0.0010824623750522733,"type":"PERSON","wiki":"https://en.wikipedia.org/wiki/Imogen_Heap"},{"name":"Many","salience":0.0006186520913615823,"type":"PERSON"},{"name":"People","salience":0.00046842728625051677,"type":"PERSON"},{"name":"Hernando de Soto","salience":0.00025675579672679305,"type":"PERSON","wiki":"https://en.wikipedia.org/wiki/Hernando_de_Soto_Polar"},{"name":"TiM","salience":0.00017479393864050508,"type":"PERSON"},{"name":"R3 Corda","salience":0.00015342958795372397,"type":"PERSON"}],"LOCATION":[{"name":"US","salience":0.0010498882038518786,"type":"LOCATION","wiki":"https://en.wikipedia.org/wiki/United_States"},{"name":"Spain","salience":0.0009036452393047512,"type":"LOCATION","wiki":"https://en.wikipedia.org/wiki/Spain"},{"name":"Catalonia","salience":0.0006066522910259664,"type":"LOCATION","wiki":"https://en.wikipedia.org/wiki/Catalonia"},{"name":"UK","salience":0.0002921791165135801,"type":"LOCATION","wiki":"https://en.wikipedia.org/wiki/United_Kingdom"},{"name":"Japan","salience":0.00025898401509039104,"type":"LOCATION","wiki":"https://en.wikipedia.org/wiki/Japan"},{"name":"Sushi","salience":0.00022656036890111864,"type":"LOCATION","wiki":"https://en.wikipedia.org/wiki/Sushi"},{"name":"Sweden","salience":0.00017851562006399035,"type":"LOCATION","wiki":"https://en.wikipedia.org/wiki/Sweden"},{"name":"Estonian","salience":0.000153588320245035,"type":"LOCATION","wiki":"https://en.wikipedia.org/wiki/Estonia"},{"name":"European","salience":0.00010606176510918885,"type":"LOCATION","wiki":"https://en.wikipedia.org/wiki/Europe"},{"name":"Honduras","salience":0.00008049248572206125,"type":"LOCATION","wiki":"https://en.wikipedia.org/wiki/Honduras"},{"name":"Frankfurt","salience":0.00006734927592333406,"type":"LOCATION","wiki":"https://en.wikipedia.org/wiki/Frankfurt"}],"EVENT":[{"name":"Beta launch","salience":0.0001431648270227015,"type":"EVENT"}],"WORK_OF_ART":[{"name":"Enigma","salience":0.00006257362838368863,"type":"WORK_OF_ART","wiki":"https://en.wikipedia.org/wiki/Enigma_machine"}]}
+{
+  "OTHER": [
+    {
+      "name": "Bitcoin blockchain",
+      "salience": 0.30687645077705383,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/Bitcoin"
+    },
+    {
+      "name": "Blockchain guide.Information",
+      "salience": 0.026611803099513054,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/Blockchain"
+    },
+    {
+      "name": "Graphical User Interface",
+      "salience": 0.010372315533459187,
+      "type": "OTHER"
+    },
+    { "name": "Anything", "salience": 0.0032313955016434193, "type": "OTHER" },
+    {
+      "name": "Hyperledger",
+      "salience": 0.0016521998913958669,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/Hyperledger"
+    },
+    { "name": "Bitcoins", "salience": 0.00117671606130898, "type": "OTHER" },
+    {
+      "name": "Transparency",
+      "salience": 0.0010582044487819076,
+      "type": "OTHER"
+    },
+    {
+      "name": "Stock market trades",
+      "salience": 0.0008655444835312665,
+      "type": "OTHER"
+    },
+    { "name": "Bitcoin", "salience": 0.0007938979542814195, "type": "OTHER" },
+    { "name": "Tradle", "salience": 0.0007710519712418318, "type": "OTHER" },
+    { "name": "Nodes", "salience": 0.0007219695253297687, "type": "OTHER" },
+    {
+      "name": "Crowdfunding initiatives",
+      "salience": 0.0006919560837559402,
+      "type": "OTHER"
+    },
+    {
+      "name": "IoT",
+      "salience": 0.00028964021419000875,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/Internet_of_things"
+    },
+    {
+      "name": "Decentralization",
+      "salience": 0.0005542745930142701,
+      "type": "OTHER"
+    },
+    {
+      "name": "Provenance",
+      "salience": 0.0005041655385866761,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/Provenance"
+    },
+    {
+      "name": "SSL standard",
+      "salience": 0.0005006572464480996,
+      "type": "OTHER"
+    },
+    {
+      "name": "Indonesia.Inter Planetary File System",
+      "salience": 0.0004842288908548653,
+      "type": "OTHER"
+    },
+    {
+      "name": "Venture investment",
+      "salience": 0.00045933088404126465,
+      "type": "OTHER"
+    },
+    { "name": "Mycelia", "salience": 0.00044306961353868246, "type": "OTHER" },
+    {
+      "name": "AML",
+      "salience": 0.00019913944522446985,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/Money_laundering"
+    },
+    {
+      "name": "Prediction markets",
+      "salience": 0.0003823554434347898,
+      "type": "OTHER"
+    },
+    {
+      "name": "E-Commerce",
+      "salience": 0.00036203820491209626,
+      "type": "OTHER"
+    },
+    {
+      "name": "Smart Contracts",
+      "salience": 0.0003486537607386708,
+      "type": "OTHER"
+    },
+    {
+      "name": "SSL certificate",
+      "salience": 0.00034851752570830286,
+      "type": "OTHER"
+    },
+    {
+      "name": "Ethereum blockchain",
+      "salience": 0.000306731672026217,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/Ethereum"
+    },
+    { "name": "Netki", "salience": 0.00014440152671301072, "type": "OTHER" },
+    { "name": "Examples", "salience": 0.00013911328774768387, "type": "OTHER" },
+    {
+      "name": "IPFS",
+      "salience": 0.00025898401509039104,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/InterPlanetary_File_System"
+    },
+    {
+      "name": "Gofundme",
+      "salience": 0.00022688637545797974,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/GoFundMe"
+    },
+    {
+      "name": "Kickstarter",
+      "salience": 0.00022688637545797974,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/Kickstarter"
+    },
+    {
+      "name": "Stock Market.",
+      "salience": 0.0002206758363172412,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/Stock_market"
+    },
+    {
+      "name": "Trust in Motion",
+      "salience": 0.0001870415871962905,
+      "type": "OTHER"
+    },
+    {
+      "name": "Centralpoint",
+      "salience": 0.00013340747682377696,
+      "type": "OTHER"
+    },
+    {
+      "name": "Instagram for KYC",
+      "salience": 0.0001147114162449725,
+      "type": "OTHER"
+    },
+    {
+      "name": "IFTTT",
+      "salience": 0.00010613808990456164,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/IFTTT"
+    },
+    {
+      "name": "CRM.",
+      "salience": 0.00010612691403366625,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/Customer_relationship_management"
+    },
+    {
+      "name": "Startup Polycoin",
+      "salience": 0.00008060249092523009,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/Startup_company"
+    },
+    {
+      "name": "Facebook",
+      "salience": 0.00006744586426066235,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/Facebook"
+    }
+  ],
+  "ORGANIZATION": [
+    {
+      "name": "KYC",
+      "salience": 0.007814536802470684,
+      "type": "ORGANIZATION",
+      "wiki": "https://en.wikipedia.org/wiki/Know_your_customer"
+    },
+    {
+      "name": "Chain",
+      "salience": 0.0010269900085404515,
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Linq",
+      "salience": 0.0005074842655987712,
+      "type": "ORGANIZATION",
+      "wiki": "https://en.wikipedia.org/wiki/Language_Integrated_Query"
+    },
+    {
+      "name": "Uber",
+      "salience": 0.0002926842134911567,
+      "type": "ORGANIZATION",
+      "wiki": "https://en.wikipedia.org/wiki/Uber_(company)"
+    },
+    {
+      "name": "AirBnB",
+      "salience": 0.00022700391127727926,
+      "type": "ORGANIZATION",
+      "wiki": "https://en.wikipedia.org/wiki/Airbnb"
+    },
+    {
+      "name": "IBM",
+      "salience": 0.00020660999871324748,
+      "type": "ORGANIZATION",
+      "wiki": "https://en.wikipedia.org/wiki/IBM"
+    },
+    {
+      "name": "Samsung",
+      "salience": 0.00020660999871324748,
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "AT&T",
+      "salience": 0.00020660999871324748,
+      "type": "ORGANIZATION",
+      "wiki": "https://en.wikipedia.org/wiki/AT%26T"
+    },
+    {
+      "name": "Hyperledger Fabric",
+      "salience": 0.00015342958795372397,
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Hongkong.Block Chain",
+      "salience": 0.00015228726260829717,
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Nasdaq",
+      "salience": 0.00015174537838902324,
+      "type": "ORGANIZATION",
+      "wiki": "https://en.wikipedia.org/wiki/NASDAQ"
+    },
+    {
+      "name": "Bitfury Group",
+      "salience": 0.00009681767551228404,
+      "type": "ORGANIZATION",
+      "wiki": "https://ru.wikipedia.org/wiki/Bitfury"
+    },
+    {
+      "name": "Republic of Georgia",
+      "salience": 0.00007702724542468786,
+      "type": "ORGANIZATION",
+      "wiki": "https://en.wikipedia.org/wiki/Georgia_(country)"
+    },
+    {
+      "name": "MIT",
+      "salience": 0.00006742745608789846,
+      "type": "ORGANIZATION",
+      "wiki":
+        "https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology"
+    },
+    {
+      "name": "Deutsche Börse",
+      "salience": 0.00006734927592333406,
+      "type": "ORGANIZATION",
+      "wiki": "https://en.wikipedia.org/wiki/Deutsche_B%C3%B6rse"
+    },
+    {
+      "name": "Japan Exchange Group",
+      "salience": 0.00006734927592333406,
+      "type": "ORGANIZATION",
+      "wiki": "https://en.wikipedia.org/wiki/Japan_Exchange_Group"
+    },
+    {
+      "name": "Australian Securities Exchange",
+      "salience": 0.000039526308682980016,
+      "type": "ORGANIZATION",
+      "wiki": "https://en.wikipedia.org/wiki/Australian_Securities_Exchange"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Blockchains",
+      "salience": 0.0016916670138016343,
+      "type": "PERSON"
+    },
+    { "name": "Consumers", "salience": 0.001386022660881281, "type": "PERSON" },
+    { "name": "Several", "salience": 0.00123059400357306, "type": "PERSON" },
+    {
+      "name": "Imogen Heap",
+      "salience": 0.0010824623750522733,
+      "type": "PERSON",
+      "wiki": "https://en.wikipedia.org/wiki/Imogen_Heap"
+    },
+    { "name": "Many", "salience": 0.0006186520913615823, "type": "PERSON" },
+    { "name": "People", "salience": 0.00046842728625051677, "type": "PERSON" },
+    {
+      "name": "Hernando de Soto",
+      "salience": 0.00025675579672679305,
+      "type": "PERSON",
+      "wiki": "https://en.wikipedia.org/wiki/Hernando_de_Soto_Polar"
+    },
+    { "name": "TiM", "salience": 0.00017479393864050508, "type": "PERSON" },
+    { "name": "R3 Corda", "salience": 0.00015342958795372397, "type": "PERSON" }
+  ],
+  "LOCATION": [
+    {
+      "name": "US",
+      "salience": 0.0010498882038518786,
+      "type": "LOCATION",
+      "wiki": "https://en.wikipedia.org/wiki/United_States"
+    },
+    {
+      "name": "Spain",
+      "salience": 0.0009036452393047512,
+      "type": "LOCATION",
+      "wiki": "https://en.wikipedia.org/wiki/Spain"
+    },
+    {
+      "name": "Catalonia",
+      "salience": 0.0006066522910259664,
+      "type": "LOCATION",
+      "wiki": "https://en.wikipedia.org/wiki/Catalonia"
+    },
+    {
+      "name": "UK",
+      "salience": 0.0002921791165135801,
+      "type": "LOCATION",
+      "wiki": "https://en.wikipedia.org/wiki/United_Kingdom"
+    },
+    {
+      "name": "Japan",
+      "salience": 0.00025898401509039104,
+      "type": "LOCATION",
+      "wiki": "https://en.wikipedia.org/wiki/Japan"
+    },
+    {
+      "name": "Sushi",
+      "salience": 0.00022656036890111864,
+      "type": "LOCATION",
+      "wiki": "https://en.wikipedia.org/wiki/Sushi"
+    },
+    {
+      "name": "Sweden",
+      "salience": 0.00017851562006399035,
+      "type": "LOCATION",
+      "wiki": "https://en.wikipedia.org/wiki/Sweden"
+    },
+    {
+      "name": "Estonian",
+      "salience": 0.000153588320245035,
+      "type": "LOCATION",
+      "wiki": "https://en.wikipedia.org/wiki/Estonia"
+    },
+    {
+      "name": "European",
+      "salience": 0.00010606176510918885,
+      "type": "LOCATION",
+      "wiki": "https://en.wikipedia.org/wiki/Europe"
+    },
+    {
+      "name": "Honduras",
+      "salience": 0.00008049248572206125,
+      "type": "LOCATION",
+      "wiki": "https://en.wikipedia.org/wiki/Honduras"
+    },
+    {
+      "name": "Frankfurt",
+      "salience": 0.00006734927592333406,
+      "type": "LOCATION",
+      "wiki": "https://en.wikipedia.org/wiki/Frankfurt"
+    }
+  ],
+  "EVENT": [
+    {
+      "name": "Beta launch",
+      "salience": 0.0001431648270227015,
+      "type": "EVENT"
+    }
+  ],
+  "WORK_OF_ART": [
+    {
+      "name": "Enigma",
+      "salience": 0.00006257362838368863,
+      "type": "WORK_OF_ART",
+      "wiki": "https://en.wikipedia.org/wiki/Enigma_machine"
+    }
+  ]
+}
