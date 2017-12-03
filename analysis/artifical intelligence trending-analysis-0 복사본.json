@@ -1,0 +1,536 @@
+{
+  "PERSON": [
+    {
+      "name": "James Paine",
+      "salience": 0.06704781204462051,
+      "type": "PERSON",
+      "wiki": "https://en.wikipedia.org/wiki/James_Paine_(architect)"
+    },
+    { "name": "Archna", "salience": 0.0029415737371891737, "type": "PERSON" },
+    {
+      "name": "Messengers",
+      "salience": 0.0010703157167881727,
+      "type": "PERSON"
+    },
+    {
+      "name": "Generation Y",
+      "salience": 0.0006346357986330986,
+      "type": "PERSON"
+    },
+    { "name": "Watson", "salience": 0.0005756383761763573, "type": "PERSON" },
+    {
+      "name": "Content strategist",
+      "salience": 0.0004994807532057166,
+      "type": "PERSON"
+    },
+    {
+      "name": "AI service agents",
+      "salience": 0.006440451834350824,
+      "type": "PERSON"
+    },
+    { "name": "Customers", "salience": 0.006167004816234112, "type": "PERSON" },
+    {
+      "name": "Alexa",
+      "salience": 0.0014458002988249063,
+      "type": "PERSON",
+      "wiki": "https://en.wikipedia.org/wiki/Amazon_Alexa"
+    },
+    { "name": "VP", "salience": 0.01250886358320713, "type": "PERSON" },
+    {
+      "name": "AI leaders",
+      "salience": 0.0038528218865394592,
+      "type": "PERSON"
+    },
+    {
+      "name": "Hui Cheng",
+      "salience": 0.0032067405991256237,
+      "type": "PERSON"
+    },
+    {
+      "name": "Clayton Clouse",
+      "salience": 0.002531777136027813,
+      "type": "PERSON"
+    },
+    {
+      "name": "AI powerhouse",
+      "salience": 0.0014622608432546258,
+      "type": "PERSON"
+    },
+    {
+      "name": "Brian Catanzaro",
+      "salience": 0.0009910869412124157,
+      "type": "PERSON"
+    },
+    { "name": "Kal Mos", "salience": 0.00039355811895802617, "type": "PERSON" },
+    {
+      "name": "AI researchers",
+      "salience": 0.007564219180494547,
+      "type": "PERSON"
+    },
+    { "name": "Investors", "salience": 0.2908253073692322, "type": "PERSON" },
+    { "name": "Authors", "salience": 0.01175796426832676, "type": "PERSON" },
+    { "name": "Lawyers", "salience": 0.002865750342607498, "type": "PERSON" },
+    { "name": "Conitzer", "salience": 0.001207253779284656, "type": "PERSON" },
+    {
+      "name": "IT leaders",
+      "salience": 0.009899455840846366,
+      "type": "PERSON"
+    },
+    {
+      "name": "David Clearley",
+      "salience": 0.012325401417911053,
+      "type": "PERSON"
+    },
+    { "name": "Cearley", "salience": 0.005163812078535557, "type": "PERSON" },
+    { "name": "Others", "salience": 0.004294686950743198, "type": "PERSON" },
+    {
+      "name": "Gartner Fellow",
+      "salience": 0.0019822719041258097,
+      "type": "PERSON"
+    },
+    {
+      "name": "City planners",
+      "salience": 0.0009999166941270232,
+      "type": "PERSON"
+    }
+  ],
+  "ORGANIZATION": [
+    {
+      "name": "West Realty Advisors",
+      "salience": 0.04942258447408676,
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Businesses",
+      "salience": 0.002395619871094823,
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "salience": 0.10715189576148987,
+      "type": "ORGANIZATION",
+      "wiki": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+    },
+    {
+      "name": "IBM",
+      "salience": 0.001542158774100244,
+      "type": "ORGANIZATION",
+      "wiki": "https://en.wikipedia.org/wiki/IBM"
+    },
+    {
+      "name": "Google",
+      "salience": 0.0011276992736384273,
+      "type": "ORGANIZATION",
+      "wiki": "https://en.wikipedia.org/wiki/Google"
+    },
+    {
+      "name": "IoT",
+      "salience": 0.00035879465679818616,
+      "type": "ORGANIZATION",
+      "wiki": "https://en.wikipedia.org/wiki/Internet_of_things"
+    },
+    {
+      "name": "Intel",
+      "salience": 0.0010016539599746466,
+      "type": "ORGANIZATION",
+      "wiki": "https://en.wikipedia.org/wiki/Intel"
+    },
+    {
+      "name": "Apple",
+      "salience": 0.0006470051594078541,
+      "type": "ORGANIZATION",
+      "wiki": "https://en.wikipedia.org/wiki/Apple_Inc."
+    },
+    {
+      "name": "Amazon",
+      "salience": 0.0002986772376476557,
+      "type": "ORGANIZATION",
+      "wiki": "https://en.wikipedia.org/wiki/Amazon_(company)"
+    },
+    {
+      "name": "Medical Seive",
+      "salience": 0.0005756383761763573,
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Facebook",
+      "salience": 0.00048541586147621274,
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Microsoft",
+      "salience": 0.00042804295662790537,
+      "type": "ORGANIZATION",
+      "wiki": "https://en.wikipedia.org/wiki/Microsoft"
+    },
+    {
+      "name": "Companies",
+      "salience": 0.0037958971224725246,
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Technology for People",
+      "salience": 0.0016126730479300022,
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Mercedes-Benz",
+      "salience": 0.003239693585783243,
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Nvidia",
+      "salience": 0.001117789768613875,
+      "type": "ORGANIZATION",
+      "wiki": "https://en.wikipedia.org/wiki/Nvidia"
+    },
+    {
+      "name": "Fedex",
+      "salience": 0.0005818411009386182,
+      "type": "ORGANIZATION",
+      "wiki": "https://en.wikipedia.org/wiki/FedEx"
+    },
+    {
+      "name": "AFEs",
+      "salience": 0.0002719018957577646,
+      "type": "ORGANIZATION",
+      "wiki":
+        "https://en.wikipedia.org/wiki/Australian_Fellowship_of_Evangelical_Students"
+    },
+    { "name": "Go", "salience": 0.0036211549304425716, "type": "ORGANIZATION" },
+    { "name": "NLP", "salience": 0.001214468153193593, "type": "ORGANIZATION" },
+    {
+      "name": "Amazon Echo",
+      "salience": 0.0003600271884351969,
+      "type": "ORGANIZATION",
+      "wiki": "https://en.wikipedia.org/wiki/Amazon_Echo"
+    },
+    {
+      "name": "Gartner Inc.",
+      "salience": 0.016585854813456535,
+      "type": "ORGANIZATION",
+      "wiki": "https://en.wikipedia.org/wiki/Gartner"
+    },
+    {
+      "name": "Organizations",
+      "salience": 0.005330342333763838,
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Enterprises",
+      "salience": 0.003147036535665393,
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "CARTA",
+      "salience": 0.00023323828645516187,
+      "type": "ORGANIZATION"
+    }
+  ],
+  "OTHER": [
+    { "name": "AI unit", "salience": 0.01018955852078997, "type": "OTHER" },
+    { "name": "AI bot", "salience": 0.009381151758134365, "type": "OTHER" },
+    {
+      "name": "United States.A",
+      "salience": 0.005460016429424286,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/United_States"
+    },
+    { "name": "One", "salience": 0.004400909878313541, "type": "OTHER" },
+    {
+      "name": "Wall-E.",
+      "salience": 0.0009361386182717979,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/WALL-E"
+    },
+    { "name": "AI bots", "salience": 0.000872317177709192, "type": "OTHER" },
+    {
+      "name": "AI",
+      "salience": 0.1190142286549626,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+    },
+    { "name": "Bots", "salience": 0.009985733777284622, "type": "OTHER" },
+    { "name": "Healthcare", "salience": 0.006243073847144842, "type": "OTHER" },
+    { "name": "Some", "salience": 0.002525580037134186, "type": "OTHER" },
+    {
+      "name": "AI ecosystem",
+      "salience": 0.004223959054797888,
+      "type": "OTHER"
+    },
+    {
+      "name": "AI integration",
+      "salience": 0.0031057128217071295,
+      "type": "OTHER"
+    },
+    { "name": "Atomwise", "salience": 0.002191061619669199, "type": "OTHER" },
+    {
+      "name": "Internet of Things",
+      "salience": 0.0010388489450020178,
+      "type": "OTHER"
+    },
+    { "name": "Chatbots", "salience": 0.0018229392590001225, "type": "OTHER" },
+    {
+      "name": "AI applications",
+      "salience": 0.0016074874438345432,
+      "type": "OTHER"
+    },
+    { "name": "Example", "salience": 0.0013381337048485875, "type": "OTHER" },
+    { "name": "ML", "salience": 0.00106729194521904, "type": "OTHER" },
+    {
+      "name": "AI startups",
+      "salience": 0.000978266354650259,
+      "type": "OTHER"
+    },
+    {
+      "name": "Deepmind Health",
+      "salience": 0.0009452065569348633,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/Health"
+    },
+    {
+      "name": "Intelligent Things",
+      "salience": 0.0008557554101571441,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/Intelligence"
+    },
+    {
+      "name": "Nervana Neural Network Processor",
+      "salience": 0.0002149570791516453,
+      "type": "OTHER"
+    },
+    {
+      "name": "AI interfaces",
+      "salience": 0.01091405563056469,
+      "type": "OTHER"
+    },
+    {
+      "name": "Tech Vision 2017",
+      "salience": 0.010059216991066933,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/Technology"
+    },
+    {
+      "name": "AI intermediator",
+      "salience": 0.0013979186411209735,
+      "type": "OTHER"
+    },
+    {
+      "name": "AI technologies",
+      "salience": 0.0007590988110256206,
+      "type": "OTHER"
+    },
+    {
+      "name": "JD.com",
+      "salience": 0.01609889045357704,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/JD.com"
+    },
+    { "name": "AI market", "salience": 0.0038528218865394592, "type": "OTHER" },
+    {
+      "name": "AI solutions",
+      "salience": 0.0014894652413204312,
+      "type": "OTHER"
+    },
+    {
+      "name": "AI platforms",
+      "salience": 0.0011202007299289107,
+      "type": "OTHER"
+    },
+    { "name": "R&D", "salience": 0.0007601096876896918, "type": "OTHER" },
+    {
+      "name": "AI solution",
+      "salience": 0.0006941896281205118,
+      "type": "OTHER"
+    },
+    {
+      "name": "Amazon Web Services",
+      "salience": 0.0006715162890031934,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/Amazon_Web_Services"
+    },
+    { "name": "S class", "salience": 0.0006649780552834272, "type": "OTHER" },
+    { "name": "ROI", "salience": 0.0006643292726948857, "type": "OTHER" },
+    {
+      "name": "Google Cloud Platform",
+      "salience": 0.0006630528368987143,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/Google_Cloud_Platform"
+    },
+    {
+      "name": "Microsoft Azure",
+      "salience": 0.0005800639628432691,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/Microsoft_Azure"
+    },
+    {
+      "name": "Reinforcement learning",
+      "salience": 0.07687109708786011,
+      "type": "OTHER"
+    },
+    {
+      "name": "AlphaGo",
+      "salience": 0.03295160457491875,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/AlphaGo"
+    },
+    {
+      "name": "AI hype machine",
+      "salience": 0.00360646634362638,
+      "type": "OTHER"
+    },
+    {
+      "name": "Information",
+      "salience": 0.008998706005513668,
+      "type": "OTHER"
+    },
+    { "name": "Notice", "salience": 0.008189854212105274, "type": "OTHER" },
+    { "name": "AI systems", "salience": 0.008519186963058555, "type": "OTHER" },
+    {
+      "name": "AI-human relationships",
+      "salience": 0.001863029901869595,
+      "type": "OTHER"
+    },
+    { "name": "AI ethics", "salience": 0.0009575440781190991, "type": "OTHER" },
+    {
+      "name": "Artificial intelligence",
+      "salience": 0.0470714271068573,
+      "type": "OTHER"
+    },
+    { "name": "IT", "salience": 0.008839670568704605, "type": "OTHER" },
+    {
+      "name": "AI techniques",
+      "salience": 0.002215024782344699,
+      "type": "OTHER"
+    },
+    {
+      "name": "Investment areas",
+      "salience": 0.0015538468724116683,
+      "type": "OTHER"
+    },
+    { "name": "AR", "salience": 0.0009702685056254268, "type": "OTHER" },
+    {
+      "name": "Connectivity",
+      "salience": 0.0008770300773903728,
+      "type": "OTHER"
+    },
+    { "name": "Edge", "salience": 0.0006147515377961099, "type": "OTHER" },
+    {
+      "name": "Security infrastructure",
+      "salience": 0.0006068545044399798,
+      "type": "OTHER"
+    },
+    {
+      "name": "Blockchain",
+      "salience": 0.0005338384653441608,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/Blockchain"
+    },
+    {
+      "name": "Information security architects",
+      "salience": 0.0004951694281771779,
+      "type": "OTHER"
+    },
+    { "name": "Interest", "salience": 0.0004850030818488449, "type": "OTHER" },
+    {
+      "name": "DevOps",
+      "salience": 0.0003505412023514509,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/DevOps"
+    },
+    {
+      "name": "DevSecOps",
+      "salience": 0.00023314126883633435,
+      "type": "OTHER"
+    },
+    {
+      "name": "VR",
+      "salience": 0.00019120884826406837,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/Virtual_reality"
+    },
+    {
+      "name": "HMDs",
+      "salience": 0.00014821550576016307,
+      "type": "OTHER",
+      "wiki": "https://en.wikipedia.org/wiki/Head-mounted_display"
+    }
+  ],
+  "LOCATION": [
+    {
+      "name": "California",
+      "salience": 0.011466272175312042,
+      "type": "LOCATION",
+      "wiki": "https://en.wikipedia.org/wiki/California"
+    },
+    {
+      "name": "San Diego",
+      "salience": 0.011466272175312042,
+      "type": "LOCATION",
+      "wiki": "https://en.wikipedia.org/wiki/San_Diego"
+    },
+    { "name": "Echo", "salience": 0.0014458002988249063, "type": "LOCATION" },
+    {
+      "name": "Catanzaro",
+      "salience": 0.0009894100949168205,
+      "type": "LOCATION"
+    },
+    {
+      "name": "China",
+      "salience": 0.00044297268782856475,
+      "type": "LOCATION",
+      "wiki": "https://en.wikipedia.org/wiki/China"
+    },
+    { "name": "Western", "salience": 0.003296835348010063, "type": "LOCATION" },
+    {
+      "name": "American",
+      "salience": 0.0003600271884351969,
+      "type": "LOCATION",
+      "wiki": "https://en.wikipedia.org/wiki/United_States"
+    },
+    {
+      "name": "Orlando",
+      "salience": 0.004170366562902927,
+      "type": "LOCATION",
+      "wiki": "https://en.wikipedia.org/wiki/Orlando,_Florida"
+    }
+  ],
+  "CONSUMER_GOOD": [
+    {
+      "name": "Computers",
+      "salience": 0.0047058467753231525,
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "Google Now",
+      "salience": 0.0014458002988249063,
+      "type": "CONSUMER_GOOD",
+      "wiki": "https://en.wikipedia.org/wiki/Google_Now"
+    }
+  ],
+  "EVENT": [
+    {
+      "name": "AI Summit",
+      "salience": 0.0024840738624334335,
+      "type": "EVENT",
+      "wiki": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+    },
+    {
+      "name": "Gartner Symposium/ITxpo",
+      "salience": 0.043296802788972855,
+      "type": "EVENT"
+    },
+    {
+      "name": "Business events",
+      "salience": 0.0010039256885647774,
+      "type": "EVENT"
+    }
+  ],
+  "WORK_OF_ART": [
+    {
+      "name": "The Top 10 Strategic Technology Trends for 2018",
+      "salience": 0.00299542467109859,
+      "type": "WORK_OF_ART"
+    }
+  ]
+}

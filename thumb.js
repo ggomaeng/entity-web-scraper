@@ -7,6 +7,10 @@ async function getThumbnail(keyword){
     return await page.$eval(`img[alt^="Image result"]`, el => el.src);
 }
 
-getThumbnail("basketball").then(href => {
-    console.log(`href:`, href);
-})
+// getThumbnail("basketball").then(href => {
+//     console.log(`href:`, href);
+// })
+
+module.exports = {
+    getThumbnail
+}

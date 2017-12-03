@@ -10,6 +10,7 @@ const fs = require("fs");
 
 const { scrape } = require("./puppet");
 
+process.setMaxListeners(0);
 // Detects the sentiment of the text
 async function analyzeEntitiesOfText(array_text) {
   let result = [];
