@@ -1,6 +1,8 @@
 // Imports the Google Cloud client library
 const language = require("@google-cloud/language");
 
+process.env.GOOGLE_APPLICATION_CREDENTIALS = "./yhacks2017-7710fb3505fc.json"
+
 // Instantiates a client
 const client = new language.LanguageServiceClient();
 
@@ -82,7 +84,7 @@ function calculate(keyword, index, depth) {
       index++;
     }
     fs.writeFile(
-      `${keyword}-output-${index}.json`,
+      `./output/${keyword}-output-${index}.json`,
       JSON.stringify(value),
       err => {
         if (err) throw err;
@@ -99,7 +101,7 @@ function calculate(keyword, index, depth) {
             //   }
             //   console.log("THIS IS IT", vv);
             fs.writeFile(
-              `${keyword}-analysis-${index}.json`,
+              `./analysis/${keyword}-analysis-${index}.json`,
               JSON.stringify(vv),
               err => {
                 if (err) throw err;
@@ -135,6 +137,15 @@ function main() {
 
 main();
 
+/*
+const importedOutput = require("./output/blockchain-output-0.json")
+analyzeEntitiesOfText(importedOutput).then(result => {
+    let copy = {...result};
+    console.log(JSON.stringify(copy, null, 4))
+})
+*/
+
 module.exports = {
   analyzeEntitiesOfText
 };
+

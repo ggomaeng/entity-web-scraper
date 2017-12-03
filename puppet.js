@@ -5,7 +5,7 @@ const fs = require("fs");
 async function scrape(keyword) {
   const browser = await puppeteer.launch({
     timeout: 120000,
-    headless: false,
+    headless: true,
     args: ["--lang=en-US,en"]
   }); // default is true
   const page = await browser.newPage();
@@ -18,6 +18,8 @@ async function scrape(keyword) {
       return l.href;
     });
   });
+
+  //todo: add network intercepts
 
   let listLength = URLs.length;
   let index = 0;
